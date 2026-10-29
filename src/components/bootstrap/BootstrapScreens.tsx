@@ -75,7 +75,7 @@ export function SuccessScreen({
                   'bootstrap.credentialsCreated',
                   'Your administrator account has been created. Write these down now: the password will not be shown again.',
                 )
-              : t('bootstrap.configuredSuccessfully', 'Stalwart has been configured successfully.')}
+              : t('bootstrap.configuredSuccessfully', 'BearOS has been configured successfully.')}
           </p>
         </div>
       </div>
@@ -105,7 +105,7 @@ export function SuccessScreen({
           <span className="font-medium">{t('bootstrap.nextStepLabel', 'Next step:')}</span>{' '}
           {t(
             'bootstrap.nextStepBody',
-            'restart Stalwart for the new configuration to take effect. Once restarted, sign in with the credentials above to continue administering your server.',
+            'restart BearOS for the new configuration to take effect. Once restarted, sign in with the credentials above to continue administering your server.',
           )}
         </p>
       </div>

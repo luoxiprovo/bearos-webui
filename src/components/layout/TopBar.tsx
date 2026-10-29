@@ -83,7 +83,7 @@ export function TopBar() {
           </Link>
         </TooltipTrigger>
         <TooltipContent side="bottom">
-          {t('version.label', 'Stalwart WebUI v{{version}}', { version: __APP_VERSION__ })}
+          {t('version.label', 'BearOS v{{version}}', { version: __APP_VERSION__ })}
         </TooltipContent>
       </Tooltip>
 

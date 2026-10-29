@@ -1,11 +1,11 @@
 {
-  "name": "stalwart-webui",
+  "name": "bearos-webui",
   "private": true,
   "version": "2.0.2",
   "stalwart": {
     "minServerVersion": "1.0.0"
   },
-  "description": "Stalwart WebUI",
+  "description": "BearOS admin interface",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -33,7 +33,7 @@ function buildOtpAuthUrl(totp: OTPAuth.TOTP): string {
 
 function generateTotp(): { totp: OTPAuth.TOTP; url: string } {
   const totp = new OTPAuth.TOTP({
-    issuer: 'Stalwart',
+    issuer: 'BearOS',
     label: 'account',
     algorithm: 'SHA1',
     digits: 6,

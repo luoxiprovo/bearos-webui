@@ -275,7 +275,7 @@ export function BootstrapWizard() {
     <WizardShell>
       <div className="space-y-6">
         <div>
-          <h2 className="text-2xl font-semibold tracking-tight">{t('bootstrap.welcome', 'Welcome to Stalwart')}</h2>
+          <h2 className="text-2xl font-semibold tracking-tight">{t('bootstrap.welcome', 'Welcome to BearOS')}</h2>
           <p className="text-sm text-muted-foreground mt-1">
             {t('bootstrap.welcomeSubtitle', "Let's get your server set up.")}
           </p>

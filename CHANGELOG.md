@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](http://semver.org/).
 
+BearOS 2.0.2 is a modified community build of Stalwart WebUI 2.0.2. It is licensed under AGPL-3.0-only. Copyright (C) 2024, Stalwart Labs LLC. The visible product name is BearOS.
+
 ## [2.0.2] - 2026-10-28
 
 ### Added
